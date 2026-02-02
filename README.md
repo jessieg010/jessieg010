@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**jessieg010/jessieg010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 🔭 I’m currently working on: Building "Execution Capacity" infrastructure (Device Farms & Automation Loops) to outperform external traffic vendors.<br><br>👯 I’m looking to collaborate on: Open-source projects involving browser fingerprinting, residential proxy management, and high-velocity scraping.<br><br>🤝 I’m looking for help with: Advanced Python scripts for bypassing complex rate-limiters (Cloudflare turnstiles).<br><br>🌱 I’m currently learning: LLM SEO (Generative Engine Optimization) and how to engineer "Entity Salience" in AI search results.<br><br>💬 Ask me about: Growth Operations, Make.com automation architectures, and how to stop renting traffic and start owning it.<br><br>⚡ Fun fact: I once helped raise $1.2M for a startup using a $0 marketing budget, a scraped list, and an automated enrichment waterfall.
 
